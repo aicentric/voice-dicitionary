@@ -1,5 +1,5 @@
 # voice-dicitionary
-Voice Dicitionary using text-to-speech and voice search
+Voice Dicitionary using text-to-speech and voice search,
 2013 project with Neel Rijhwani,Hitesh Mirchandani and Pawan Rohra
 
 
